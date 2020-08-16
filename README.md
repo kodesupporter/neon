@@ -3,9 +3,9 @@ Tools to display the repository's (GitHub) events on a timeline.
 
 We don't know how to classify Neon. 
 
-The most basic definition of Neon: is a tool to help you create websites. That site displays the latest information and events for your repository and sorts it on a timeline.
+The most basic definition of Neon is a tool to help you create websites. This site displays the latest information and events for your repository and sorts it on a timeline.
 
-Neon is develop in "dev" branch
+Neon is developeds in "dev" branch
 
 ## What is Neon?
 Neon is a static website builder, used for open source projects on GitHub. Neon will display all the events that happen with the repo and are displayed in the timeline.
